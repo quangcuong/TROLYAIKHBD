@@ -1,0 +1,6 @@
+{
+  "name": "Trợ lý Giáo án AI",
+  "description": "Tài liệu kiến trúc hệ thống ứng dụng Trợ lý Giáo án AI (KHBD 5512, Nghiên cứu bài học, KHBD STEM).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
